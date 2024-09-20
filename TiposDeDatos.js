@@ -27,3 +27,5 @@ console.log(usuario);
 
 //si deseo saber el tipo de dato
 console.log()
+
+
